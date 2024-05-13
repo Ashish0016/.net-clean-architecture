@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wVa+t3VwrFv6b7xLj7/P7iuY5BrQM6S+rFGkEPOpooVFGu8bXOZg5fiM7r0XeRNFGrS3DFyOsqUfZgXT7lXLdw==",
+  "success": true,
+  "projectFilePath": "D:\\Angular .Net Core Projects\\.net-clean-architecture\\src\\PresentationLayer\\PresentationLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AshishNaikwadi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "RfW1hecpIrtrP/Oh3cb68HwuysGwkNHFMPTs3SmzXYoOz1Rop7BAnG3cO5N1IMCiu7vUFGqPJnCXiZJ6K9eoHA==",
+  "success": true,
+  "projectFilePath": "D:\\Angular .Net Core Projects\\.net-clean-architecture\\src\\ApplicationLayer\\ApplicationLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AshishNaikwadi\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512",
+    "C:\\Users\\AshishNaikwadi\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.1\\fluentvalidation.dependencyinjectionextensions.11.9.1.nupkg.sha512",
+    "C:\\Users\\AshishNaikwadi\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\AshishNaikwadi\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\AshishNaikwadi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
